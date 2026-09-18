@@ -1,0 +1,6 @@
+{
+  "name": "Paman Usman - Pemilih Desa Tracap",
+  "description": "Aplikasi data pemilih, pemetaan wilayah TPS, dan monitoring akumulasi perolehan suara real-time Desa Tracap untuk Tim Sukses Paman Usman (Ahmad Latif Usman).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
